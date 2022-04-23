@@ -1,0 +1,92 @@
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\SistemaOdonto.exe.config
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\SistemaOdonto.exe
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\SistemaOdonto.pdb
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.Properties.Resources.resources
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.GenerateResource.cache
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.exe
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.pdb
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\EntityFramework.dll
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\EntityFramework.xml
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.CopyComplete
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.FrmPrincipal.resources
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.FrmCadDentista.resources
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\WcfService.dll
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\Interfaces.dll
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\Controllers.dll
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\Entidades.dll
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\WcfService.pdb
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\WcfService.dll.config
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\Interfaces.pdb
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\Interfaces.dll.config
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\Controllers.pdb
+C:\Users\willi\source\repos\SistemaOdonto\bin\Debug\Entidades.pdb
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.FrmConsultaDentista.resources
+C:\Users\willi\source\repos\SistemaOdonto\obj\Debug\SistemaOdonto.FrmEditarDentista.resources
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\SistemaOdonto.exe.config
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\SistemaOdonto.exe
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\SistemaOdonto.pdb
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\Entidades.dll
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.dll
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\WcfService.dll
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\Interfaces.dll
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\Controllers.dll
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\Entidades.pdb
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\WcfService.pdb
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\WcfService.dll.config
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.xml
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\Interfaces.pdb
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\Interfaces.dll.config
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\bin\Debug\Controllers.pdb
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmCadDentista.resources
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmConsultaDentista.resources
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmEditarDentista.resources
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmPrincipal.resources
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.Properties.Resources.resources
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.GenerateResource.cache
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.CopyComplete
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.exe
+C:\Users\willi\source\repos\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\SistemaOdonto.exe.config
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\SistemaOdonto.exe
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\SistemaOdonto.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\Entidades.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\WcfService.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\Interfaces.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\Controllers.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\Entidades.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\WcfService.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\WcfService.dll.config
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.xml
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\Interfaces.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\Interfaces.dll.config
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\bin\Debug\Controllers.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.AssemblyReference.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmCadDentista.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmConsultaDentista.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmEditarDentista.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmPrincipal.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.Properties.Resources.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.GenerateResource.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.CoreCompileInputs.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.csproj.CopyComplete
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.exe
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmCadPaciente.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmConsultaPaciente.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmEditarPaciente.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmCadConsulta.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmConsultas.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.FrmEditarConsulta.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.Suporte.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\SistemaOdonto\obj\Debug\SistemaOdonto.Anotacoes.resources

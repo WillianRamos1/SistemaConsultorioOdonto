@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4afa49f-20c3-45d9-9dee-2371004075c1": {
+      "ProjectGuid": "b4afa49f-20c3-45d9-9dee-2371004075c1",
+      "DisplayName": "SistemaOdonto",
+      "ColorIndex": 0
+    },
+    "3db07152-19ec-4ede-bd13-70d70b3789f5": {
+      "ProjectGuid": "3db07152-19ec-4ede-bd13-70d70b3789f5",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 1
+    },
+    "f8dd4b64-a796-4923-a388-8a36a60b2cdd": {
+      "ProjectGuid": "f8dd4b64-a796-4923-a388-8a36a60b2cdd",
+      "DisplayName": "Entidades",
+      "ColorIndex": 2
+    },
+    "340b31b1-cbe4-4509-a7d7-aab89ae770cb": {
+      "ProjectGuid": "340b31b1-cbe4-4509-a7d7-aab89ae770cb",
+      "DisplayName": "Controllers",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

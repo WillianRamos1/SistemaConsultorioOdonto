@@ -1,0 +1,11 @@
+C:\Users\willi\source\repos\Entidades\bin\Debug\Entidades.dll
+C:\Users\willi\source\repos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\willi\source\repos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Entidades\obj\Debug\Entidades.dll
+C:\Users\willi\source\repos\Entidades\obj\Debug\Entidades.pdb
+C:\Users\willi\source\repos\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Entidades\obj\Debug\Entidades.pdb

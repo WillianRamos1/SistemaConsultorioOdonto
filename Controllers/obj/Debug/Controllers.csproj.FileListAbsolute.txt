@@ -1,0 +1,30 @@
+C:\Users\willi\source\repos\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Controllers\bin\Debug\Controllers.dll
+C:\Users\willi\source\repos\Controllers\bin\Debug\Controllers.pdb
+C:\Users\willi\source\repos\Controllers\bin\Debug\Entidades.dll
+C:\Users\willi\source\repos\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\willi\source\repos\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\willi\source\repos\Controllers\bin\Debug\Entidades.pdb
+C:\Users\willi\source\repos\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\willi\source\repos\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\willi\source\repos\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\willi\source\repos\Controllers\obj\Debug\Controllers.dll
+C:\Users\willi\source\repos\Controllers\obj\Debug\Controllers.pdb
+C:\Users\willi\source\repos\Controllers\obj\Debug\Controllers.Migrations.Banco.resources
+C:\Users\willi\source\repos\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\Controllers.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\Controllers.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\Entidades.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\EntityFramework.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\Entidades.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\EntityFramework.xml
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.AssemblyReference.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\obj\Debug\Controllers.Migrations.Banco.resources
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.GenerateResource.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\obj\Debug\Controllers.csproj.CopyComplete
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\obj\Debug\Controllers.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Controllers\obj\Debug\Controllers.pdb

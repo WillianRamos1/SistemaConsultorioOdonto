@@ -1,0 +1,28 @@
+C:\Users\willi\source\repos\Interfaces\bin\Debug\Interfaces.dll.config
+C:\Users\willi\source\repos\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\willi\source\repos\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\willi\source\repos\Interfaces\bin\Debug\Entidades.dll
+C:\Users\willi\source\repos\Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\willi\source\repos\Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\willi\source\repos\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\willi\source\repos\Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\willi\source\repos\Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\willi\source\repos\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\willi\source\repos\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\willi\source\repos\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\Interfaces.dll.config
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\Entidades.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\Interfaces\obj\Debug\Interfaces.pdb

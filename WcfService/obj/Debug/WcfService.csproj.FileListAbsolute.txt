@@ -1,0 +1,34 @@
+C:\Users\willi\source\repos\WcfService\bin\WcfService.dll.config
+C:\Users\willi\source\repos\WcfService\bin\WcfService.dll
+C:\Users\willi\source\repos\WcfService\bin\WcfService.pdb
+C:\Users\willi\source\repos\WcfService\bin\Controllers.dll
+C:\Users\willi\source\repos\WcfService\bin\Entidades.dll
+C:\Users\willi\source\repos\WcfService\bin\Interfaces.dll
+C:\Users\willi\source\repos\WcfService\bin\EntityFramework.dll
+C:\Users\willi\source\repos\WcfService\bin\Controllers.pdb
+C:\Users\willi\source\repos\WcfService\bin\Entidades.pdb
+C:\Users\willi\source\repos\WcfService\bin\Interfaces.pdb
+C:\Users\willi\source\repos\WcfService\bin\Interfaces.dll.config
+C:\Users\willi\source\repos\WcfService\bin\EntityFramework.xml
+C:\Users\willi\source\repos\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\WcfService\obj\Debug\WcfService.csproj.CopyComplete
+C:\Users\willi\source\repos\WcfService\obj\Debug\WcfService.dll
+C:\Users\willi\source\repos\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\WcfService.dll.config
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\WcfService.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\WcfService.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\Controllers.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\Entidades.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\Interfaces.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\EntityFramework.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\Controllers.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\Entidades.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\Interfaces.pdb
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\Interfaces.dll.config
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\bin\EntityFramework.xml
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\obj\Debug\WcfService.csproj.CopyComplete
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\obj\Debug\WcfService.dll
+C:\Users\Willian Ramos\Documents\Projetos Back-End\SistemaOdonto\WcfService\obj\Debug\WcfService.pdb
